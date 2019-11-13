@@ -235,3 +235,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 [23] Sun, Z., Deng, Z., Nie, J., & Tang, J. (2019). Rotate: Knowledge graph embedding by relational rotation in complex space. ICLR, 1–18.
 
 [24] Niepert, M. (2016). Discriminative gaifman models. NIPS, 3413–3421.
+
+### Planned Addition
+
+[25] Zhu, Y., Liu, H., Wu, Z., Song, Y., & Zhang, T. (2019). Representation Learning with Ordered Relation Paths for Knowledge Graph Completion. EMNLP.
