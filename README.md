@@ -1,6 +1,6 @@
 ### Link Prediction Problem: Experiment Results on Benchmark Datasets
 
-In this thread I have collected recent published and aged-well approaches for knowledge graph completion (link prediction) problems. The included methods can be roughly divided into groups: Rule-based Methods, Embedding Methods, Graph Neural Network Methods and Hybird Methods (relational reinforcement learning, differentiable reasoning, etc.). Experiments results are collected from original and follow-up papers, and best effort has been attempted to assure results of the same method are carried out with similar configurations.
+In this thread I have collected recently published and well-aged approaches for knowledge graph completion (link prediction) problems. The included methods can be roughly divided into groups: Rule-based Methods, Embedding Methods, Graph Neural Network Methods and Hybird Methods (relational reinforcement learning, differentiable reasoning, etc.). Experiments results are collected from original and follow-up papers, and best effort has been attempted to assure results of the same method are carried out with similar configurations, but do expect results under different settings being put around each other.
 
 #### Type Markers: 
 - **E** as embedding methods
