@@ -189,26 +189,49 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 
 ### References
 [1] Kazemi, S. M., & Poole, D. (2018). SimplE Embedding for Link Prediction in Knowledge Graphs. NIPS, 1–12.
+
 [2] Dettmers, T., Minervini, P., Stenetorp, P., & Riedel, S. (2018). Convolutional 2D Knowledge Graph Embeddings. AAAI, 1811–1818.
+
 [3] Lacroix, T., Usunier, N., & Obozinski, G. (2018). Canonical Tensor Decomposition for Knowledge Base Completion. ICML.
+
 [4] Schlichtkrull, M., Kipf, T. N., Bloem, P., Titov, I., & Welling, M. (2018). Modeling Relational Data with Graph Convolutional Networks. ESWC, 593–607.
+
 [5] Kipf, T. N., & Welling, M. (2017). Semi-Supervised Classification with Graph Convolutional Networks. ICLR, 1–14. Retrieved from http://arxiv.org/abs/1609.02907
+
 [6] Yang, B., Yih, W., He, X., Gao, J., & Deng, L. (2015). Embedding entities and relations for learning and inference in knowledge bases. ICLR, 1–13.
+
 [7] Zhang, W., Paudel, B., Zhang, W., Bernstein, A., & Chen, H. (2019). Interaction Embeddings for Prediction and Explanation in Knowledge Graphs. WSDM.
+
 [8] Liu, H., Wu, Y., & Yang, Y. (2017). Analogical Inference for Multi-relational Embeddings. ICML.
+
 [9] Bordes, A., Usunier, N., Weston, J., & Yakhnenko, O. (2013). Translating Embeddings for Modeling Multi-Relational Data. NIPS, 2787–2795. https://doi.org/10.1007/s13398-014-0173-7.2
+
 [10] Galárraga, L., Teflioudi, C., Hose, K., & Suchanek, F. M. (2015). Fast rule mining in ontological knowledge bases with AMIE+. VLDB Journal, 24(6), 707–730. https://doi.org/10.1007/s00778-015-0394-1
+
 [11] Meilicke, C., Fink, M., Wang, Y., Ruffinelli, D., Gemulla, R., & Stuckenschmidt, H. (2018). Fine-grained evaluation of rule- and embedding-based systems for knowledge graph completion. ISWC, 3–20. https://doi.org/10.1007/978-3-030-00671-6_1
+
 [12] Meilicke, C., Chekol, M. W., Ruffinelli, D., & Stuckenschmidt, H. (2019). Anytime Bottom-Up Rule Learning for Knowledge Graph Completion. IJCAI, 3137–3143.
+
 [13] Guo, S., Wang, Q., Wang, L., Wang, B., & Guo, L. (2018). Knowledge Graph Embedding with Iterative Guidance from Soft Rules. AAAI, 4816–4823.
+
 [14] Yang, F., & Cohen, W. W. (2017). Differentiable Learning of Logical Rules for Knowledge Base Reasoning. NIPS.
+
 [15] Omran, P. G., Wang, K., & Wang, Z. (2018). Scalable rule learning via learning representation. IJCAI, 2149–2155.
+
 [16] Nguyen, D. Q., Nguyen, T. D., Nguyen, D. Q., & Phung, D. (2018). A Novel Embedding Model for Knowledge Base Completion. NAACL.
+
 [17] Toutanova, K., & Chen, D. (2015). Observed versus latent features for knowledge base and text inference. Proceedings of the 3rd Workshop on Continuous Vector Space Models and Their Compositionality, 57–66. https://doi.org/10.18653/v1/w15-4007
+
 [18] Nathani, D., Chauhan, J., Sharma, C., & Kaul, M. (2019). Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs. ACL. Retrieved from http://arxiv.org/abs/1906.01195
+
 [19] Das, R., Dhuliawala, S., Zaheer, M., Vilnis, L., Durugkar, I., Krishnamurthy, A., … Mccallum, A. (2018). Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning. ICLR.
+
 [20] Rocktäschel, T., & Riedel, S. (2017). End-to-End Differentiable Proving. NIPS. Retrieved from http://arxiv.org/abs/1705.11040
+
 [21] Lin, X. V., Richard, S., & Caiming, X. (2018). Multi-Hop Knowledge Graph Reasoning with Reward Shaping. ACL, 3243–3253.
+
 [22] Sadeghian, A., Armandpour, M., Ding, P., & Wang, D. Z. (2019). DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs. NIPS, 1–13. Retrieved from http://arxiv.org/abs/1911.00055
+
 [23] Sun, Z., Deng, Z., Nie, J., & Tang, J. (2019). Rotate: Knowledge graph embedding by relational rotation in complex space. ICLR, 1–18.
+
 [24] Niepert, M. (2016). Discriminative gaifman models. NIPS, 3413–3421.
