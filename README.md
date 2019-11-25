@@ -80,6 +80,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**E**-ComplEx-N3-2018-[3]|0.482|**0.86**|0.37|**0.95**|**0.48**|0.823|0.838|
 |**E**-CrossE-2019-[7]|-|0.728|0.299|0.83|-|-|-
 |**E**-Rotate-2019-[23]|-|0.799|0.338|0.949|0.476|-|-
+|**E**-IterE-2019-[26]|-|0.628|0.247|0.913|0.274|-|-
 |**R**-Node+LinkFeat-2015-[17]|-|0.821|0.237|0.94|-|-|-
 |**R**-AMIE-2015[10]|-|-|-|-|-|-|-|
 |**R**-Gaifman-2016-[24]|-|-|-|-|-|-|-
@@ -110,6 +111,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**E**-ComplEx-N3-2018-[3]|0.399|0.599|0.132|0.936|0.409|0.733|0.823|
 |**E**-CrossE-2019-[7]|-|0.634|0.211|0.741|-|-|-
 |**E**-Rotate-2019-[23]|-|0.75|0.241|0.944|0.428|-|-|
+|**E**-IterE-2019-[26]|-|0.551|0.179|0.891|0.254|-|-|
 |**R**-Node+LinkFeat-2015-[17]|-|-|-|-|-|-|-|
 |**R**-AMIE-2015[10]|-|0.647|0.174|0.872|0.358|-|-
 |**R**-Gaifman-2016-[24]|-|0.692|-|0.767|-|-|-|
@@ -140,6 +142,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**E**-ComplEx-N3-2018-[3]|0.528|0.759|0.244|0.945|0.469|0.899|0.962|
 |**E**-CrossE-2019-[7]|-|0.802|0.331|0.931|-|-|-
 |**E**-Rotate-2019-[23]|-|**0.83**|0.375|**0.952**|0.492|-|-|
+|**E**-IterE-2019-[26]|-|0.673|0.262|0.935|0.281|-|-|
 |**R**-Node+LinkFeat-2015-[17]|-|-|-|-|-|-|-|
 |**R**-AMIE-2015[10]|-|-|-|-|-|-|-|
 |**R**-Gaifman-2016-[24]|-|-|-|-|-|-|-
@@ -170,6 +173,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**E**-ComplEx-N3-2018-[3]|0.606|0.91|0.56|0.96|0.57|0.9711|0.995
 |**E**-CrossE-2019-[7]|-|-|0.474|-|-|-|-
 |**E**-Rotate-2019-[23]|-|0.884|0.533|0.959|0.571|-|-|
+|**E**-IterE-2019-[26]|-|0.771|0.392|0.948|0.314|-|-|
 |**R**-Node+LinkFeat-2015-[17]|-|0.87|0.36|0.943|-|-|-
 |**R**-AMIE-2015[10]|-|0.858|0.409|0.948|0.388|-|-
 |**R**-Gaifman-2016-[24]|-|0.842|-|0.939|-|-|-|-
@@ -235,6 +239,8 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 [23] Sun, Z., Deng, Z., Nie, J., & Tang, J. (2019). Rotate: Knowledge graph embedding by relational rotation in complex space. ICLR, 1–18.
 
 [24] Niepert, M. (2016). Discriminative gaifman models. NIPS, 3413–3421.
+
+[26] Zhang, W., Paudel, B., Wang, L., Chen, J., Zhu, H., Zhang, W., … Chen, H. (2019). Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning. WWW.
 
 ### Planned Addition
 
