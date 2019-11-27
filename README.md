@@ -59,6 +59,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-AnyBURL-2019-[12]|-|0.83|0.31|**0.95**|**0.48**|-|-|
 |**R+E**-RLvLR-2018-[15]|-|-|0.24|-|-|-|-
 |**NN**-R-GCN-2017-[5]|-|0.651|0.248|0.814|-|-|-
+|**NN**-SACN-2019-[27]|-|-|0.35|-|0.47|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|-|0.696|0.249|0.819|-|-|-|
 |**E+NN**-ConvKB-2018-[16]|0.43|-|0.396|-|0.248|0.033|-
 |**E+NN**-AttentionE-2019-[18]|0.530|-|**0.518**|-|0.44|**0.904**|-
@@ -90,6 +91,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-AnyBURL-2019-[12]|-|**0.808**|0.233|**0.946**|**0.446**|-|-
 |**R+E**-RLvLR-2018-[15]|-|-|-|-|-|-|-|
 |**NN**-R-GCN-2017-[5]|-|0.541|0.153|0.686|-|-|-
+|**NN**-SACN-2019-[27]|-|-|0.26|-|0.43|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|-|0.601|0.151|0.697|-|-|-
 |**E+NN**-ConvKB-2018-[16]|0.37|-|0.198|-|0.0562|0.4362|-|
 |**E+NN**-AttentionE-2019-[18]|0.447|-|0.46|-|0.361|**0.859**|-
@@ -121,6 +123,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-AnyBURL-2019-[12]|-|-|-|-|-|-|-|
 |**R+E**-RLvLR-2018-[15]|-|-|-|-|-|-|-|
 |**NN**-R-GCN-2017-[5]|-|0.736|0.258|0.928|-|-|-
+|**NN**-SACN-2019-[27]|-|-|0.39|-|0.48|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|0.126|0.760|0.264|0.929|0.137|0.088|-
 |**E+NN**-ConvKB-2018-[16]|0.47|-|0.324|-|0.445|0.755|-|
 |**E+NN**-AttentionE-2019-[18]|0.564|-|**0.54**|-|0.483|**0.941**|-
@@ -152,6 +155,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-AnyBURL-2019-[12]|-|**0.89**|0.486|0.959|0.555|-|-
 |**R+E**-RLvLR-2018-[15]|-|-|0.393|-|-|-|-
 |**NN**-R-GCN-2017-[5]|-|0.825|0.414|0.955|-|-|-|
+|**NN**-SACN-2019-[27]|-|-|0.54|-|0.54|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|0.188|0.842|0.417|**0.964**|0.08|0.239|-|
 |**E+NN**-ConvKB-2018-[16]|0.545|-|0.517|-|0.525|0.953|-
 |**E+NN**-AttentionE-2019-[18]|0.695|-|**0.626**|-|0.581|0.98|-|
@@ -211,6 +215,8 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 [24] Niepert, M. (2016). Discriminative gaifman models. NIPS, 3413–3421.
 
 [26] Zhang, W., Paudel, B., Wang, L., Chen, J., Zhu, H., Zhang, W., … Chen, H. (2019). Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning. WWW.
+
+[27] Shang, C., Tang, Y., Huang, J., Bi, J., He, X., & Zhou, B. (2019). End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion. AAAI, 3060–3067.
 
 ### Planned Addition
 
