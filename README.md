@@ -221,3 +221,4 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 ### Planned Addition
 
 [25] Zhu, Y., Liu, H., Wu, Z., Song, Y., & Zhang, T. (2019). Representation Learning with Ordered Relation Paths for Knowledge Graph Completion. EMNLP.
+[28] Niu, G., Zhang, Y., Li, B., Cui, P., Liu, S., Li, J., & Zhang, X. (2019). Rule-Guided Compositional Representation Learning on Knowledge Graphs. Arxiv.
