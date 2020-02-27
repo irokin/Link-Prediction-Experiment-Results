@@ -36,9 +36,6 @@ Approach Format:
 #### Experiments Results
 
 > Filter Mean Reciprocal Rank (Filter MRR) 
-> 
-
-The filtered MRR is concerned about the problem that when evaluating embedding methods, positive instances are used to generate negative instances (or testing sets) by corrupting its head and tail, however, in raw MRR, there is no guarantee that the generated instances never overlap with existing positive insatnces, thus introduce unfairness to the evaluation. Filter MRR simply remove any generated instances that are known as positive facts. This problem won't appear in the rule-based methods (or question-answering systems), so the MRR evaluation on rule-based methods is filter MRR by default.
 
 |Approach|NELL-995|FB15K|FB15K-237|WN18|WN18RR|Kinship|UMLS
 |--|--|--|--|--|--|--|--|
@@ -58,6 +55,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-RUGE-2018-[13]|-|0.768|-|-|-|-|-
 |**R**-AnyBURL-2019-[12]|-|0.83|0.31|**0.95**|**0.48**|-|-|
 |**R+E**-RLvLR-2018-[15]|-|-|0.24|-|-|-|-
+|**R+E**-RPJE-2020-[29]|0.361|0.816|0.47|0.946|-|-|-
 |**NN**-R-GCN-2017-[5]|-|0.651|0.248|0.814|-|-|-
 |**NN**-SACN-2019-[27]|-|-|0.35|-|0.47|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|-|0.696|0.249|0.819|-|-|-|
@@ -143,7 +141,7 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**E**-ANALOGY-2017-[8]|-|0.854|0.405|0.947|-|-|-
 |**E**-SimpleE-2018-[1]|-|0.838|-|0.947|-|-|-
 |**E**-ConvE-2018-[2]|0.613|0.873|0.491|0.955|0.48|0.9814|0.992|
-|**E**-ComplEx-N3-2018-[3]|0.606|0.91|0.56|0.96|0.57|0.9711|0.995
+|**E**-ComplEx-N3-2018-[3]|0.606|**0.91**|0.56|0.96|0.57|0.9711|0.995
 |**E**-CrossE-2019-[7]|-|-|0.474|-|-|-|-
 |**E**-Rotate-2019-[23]|-|0.884|0.533|0.959|0.571|-|-|
 |**E**-IterE-2019-[26]|-|0.771|0.392|0.948|0.314|-|-|
@@ -152,8 +150,9 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 |**R**-Gaifman-2016-[24]|-|0.842|-|0.939|-|-|-|-
 |**R**-RuleN-2018-[11]|-|0.87|0.42|0.958|0.536|-|-
 |**R**-RUGE-2018-[13]|-|0.865|-|-|-|-|-|
-|**R**-AnyBURL-2019-[12]|-|**0.89**|0.486|0.959|0.555|-|-
+|**R**-AnyBURL-2019-[12]|-|0.89|0.486|0.959|0.555|-|-
 |**R+E**-RLvLR-2018-[15]|-|-|0.393|-|-|-|-
+|**R+E**-RPJE-2020-[29]|0.501|0.903|0.625|0.951|-|-|-
 |**NN**-R-GCN-2017-[5]|-|0.825|0.414|0.955|-|-|-|
 |**NN**-SACN-2019-[27]|-|-|0.54|-|0.54|-|-|-
 |**E+NN**-R-GCN+\-2018-[4]|0.188|0.842|0.417|**0.964**|0.08|0.239|-|
@@ -217,6 +216,8 @@ The filtered MRR is concerned about the problem that when evaluating embedding m
 [26] Zhang, W., Paudel, B., Wang, L., Chen, J., Zhu, H., Zhang, W., … Chen, H. (2019). Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning. WWW.
 
 [27] Shang, C., Tang, Y., Huang, J., Bi, J., He, X., & Zhou, B. (2019). End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion. AAAI, 3060–3067.
+
+[29] Niu, G., Zhang, Y., Li, B., Cui, P., Liu, S., Li, J., & Zhang, X. (2020). Rule-Guided Compositional Representation Learning on Knowledge Graphs. AAAI.
 
 ### Planned Addition
 
